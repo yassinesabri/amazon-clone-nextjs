@@ -10,9 +10,12 @@ export default function Home() {
 
       {/*header*/}
       <Header/>
-      {/*banner*/}
 
-      {/*feed*/}
+      <main>
+        {/*banner*/}
+
+        {/*feed*/}
+      </main>
 
     </div>
   );
